@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="pilhaEstatica.h" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="9" Column="1"/>
+		</File>
+		<File Name="pilhaEstatica.c" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="11" Column="16"/>
+		</File>
+		<File Name="main.c" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="60" Column="8"/>
+		</File>
+	</Files>
+</Layout>

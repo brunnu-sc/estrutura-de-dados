@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="4" TopLine="30">
+			<Cursor Line="80" Column="1"/>
+		</File>
+		<File Name="pilhaDinamica.c" Top="No" Tabpos="5" TopLine="3">
+			<Cursor Line="8" Column="3"/>
+		</File>
+		<File Name="pilhaDinamica.h" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="21" Column="13"/>
+		</File>
+	</Files>
+</Layout>

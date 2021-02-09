@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="16" Column="35"/>
+		</File>
+		<File Name="item.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="item.c" Top="No" Tabpos="3" TopLine="3">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="lista.h" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="lista.c" Top="Yes" Tabpos="5" TopLine="1">
+			<Cursor Line="11" Column="5"/>
+		</File>
+	</Files>
+</Layout>

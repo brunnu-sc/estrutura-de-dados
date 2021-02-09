@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="19" Column="19"/>
+		</File>
+		<File Name="Livro.h" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="7" Column="1"/>
+		</File>
+		<File Name="Livro.c" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="11" Column="1"/>
+		</File>
+	</Files>
+</Layout>
